@@ -1,0 +1,459 @@
+rp_entity_id,rpa_date_utc,timestamp_utc,entity_name,relevance,event_sentiment_score,event_relevance,topic,type,category,news_type,headline,src
+D8442A,39091,39091.737329,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Jobs Says Apple TV To Ship In February At $299 >AAPL,APPLE07
+D8442A,39091,39091.738416,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Jobs Says Apple Introduces Widescreen IPod Player >AAPL,APPLE07
+D8442A,39091,39091.738625,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Jobs Says Apple Will Ship Mobile Phone >AAPL,APPLE07
+D8442A,39091,39091.744551,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple CEO Jobs Says IPhone Will Hook Up To ITunes >AAPL,APPLE07
+D8442A,39091,39091.745687,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple CEO Jobs Says IPhone Has Wide Screen, No Keyboard",APPLE07
+D8442A,39091,39091.756243,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"UPDATE:Apple Unveils IPhone, Other Pdts At MacWorld>AAPL",APPLE07
+D8442A,39091,39091.766632,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"UPDATE:Apple Unveils IPhone, Other Products At MacWorld",APPLE07
+D8442A,39091,39091.783568,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple CEO Jobs Says IPhone To Ship In June In US >AAPL,APPLE07
+D8442A,39091,39091.79294,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"2nd UPDATE:Apple Unveils IPhone, Other Pdts At MacWorld",APPLE07
+D8442A,39091,39091.79573,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,AT A GLANCE: Apple Rings In With IPhone Cellphone Debut,APPLE07
+D8442A,39091,39091.803183,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,UPDATE: Apple Unwraps IPhone At Macworld,APPLE07
+D8442A,39091,39091.803333,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"2nd UPDATE:Apple Unveils IPhone, Other Products At MacWorld",APPLE07
+D8442A,39091,39091.804951,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple Introduces iTune Content From Mac, PC On Widescreen TV>AAPL",APPLE07
+D8442A,39091,39091.840592,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,3rd UPDATE: Apple Unveils IPhone; Shares Rise 6.8% >AAPL,APPLE07
+D8442A,39091,39091.850984,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,3rd UPDATE: Apple Unveils IPhone; Shares Rise 6.8%,APPLE07
+D8442A,39091,39091.943464,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,4th UPDATE: Apple Unveils IPhone; Shrs At All-Time High,APPLE07
+D8442A,39091,39091.953854,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,4th UPDATE: Apple Unveils IPhone; Shares At All-Time High,APPLE07
+D8442A,39091,39091.956354,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,2ND UPDATE: Apple Unwraps IPhone At Macworld,APPLE07
+D8442A,39092,39092.524209,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils IPhone; Shares Close At All-Time High>AAPL,APPLE07
+D8442A,39092,39092.531285,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils IPhone; Shares Close At All-Time High,APPLE07
+D8442A,39608,39608.715228,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Says New Operating System Called Snow Leopard,APPLE08
+D8442A,39608,39608.715963,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces iPhone 2.0 Software,APPLE08
+D8442A,39608,39608.755241,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces IPhone Parental Controls,APPLE08
+D8442A,39608,39608.788457,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces MobileMe Internet Service,APPLE08
+D8442A,39608,39608.805692,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,America Movil and Apple to Bring iPhone 3G to Mexico on July 11,APPLE08
+D8442A,39608,39608.805831,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,America Movil And Apple To Bring iPhone 3G To Mexico On July 11,APPLE08
+D8442A,39608,39608.806178,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,AT&T and Apple to Launch iPhone 3G in the US on July 11,APPLE08
+D8442A,39608,39608.80634,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,AT&T And Apple To Launch iPhone 3G In The US On July 11,APPLE08
+D8442A,39608,39608.807224,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Bharti Airtel and Apple to Bring iPhone 3G to India,APPLE08
+D8442A,39608,39608.807286,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Bharti Airtel And Apple To Bring iPhone 3G To India,APPLE08
+D8442A,39608,39608.807423,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: AT&T and Apple to Launch iPhone 3G in the US on Ju,APPLE08
+D8442A,39608,39608.807892,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Globe Telecom and Apple Bring iPhone 3G to Philippines,APPLE08
+D8442A,39608,39608.807949,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Globe Telecom And Apple Bring iPhone 3G To Philippines,APPLE08
+D8442A,39608,39608.808278,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Globe Telecom and Apple Bring iPhone 3G to Philipp,APPLE08
+D8442A,39608,39608.80839,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Bharti Airtel and Apple to Bring iPhone 3G to Indi,APPLE08
+D8442A,39608,39608.808928,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: America Movil and Apple to Bring iPhone 3G to Mexi,APPLE08
+D8442A,39608,39608.809422,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Hutchison Telecom and Apple to Bring iPhone to Hong Kong on July,APPLE08
+D8442A,39608,39608.809476,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Hutchison Telecom And Apple To Bring iPhone To Hong Kong On July,APPLE08
+D8442A,39608,39608.809682,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Hutchison Telecom and Apple to Bring iPhone to Hon,APPLE08
+D8442A,39608,39608.810007,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,O2 and Apple to Launch iPhone 3G in the UK & Ireland on July 11,APPLE08
+D8442A,39608,39608.810048,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,O2 And Apple To Launch iPhone 3G In The UK & Ireland On July 11,APPLE08
+D8442A,39608,39608.810232,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: O2 and Apple to Launch iPhone 3G in the UK & Irela,APPLE08
+D8442A,39608,39608.810958,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Optus and Apple to Bring iPhone 3G to Australia on July 11,APPLE08
+D8442A,39608,39608.811435,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Optus And Apple To Bring iPhone 3G To Australia On July 11,APPLE08
+D8442A,39608,39608.811585,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Orange and Apple to Bring iPhone 3G to Austria, France, Portugal",APPLE08
+D8442A,39608,39608.811627,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Orange And Apple To Bring iPhone 3G To Austria, France, Portugal",APPLE08
+D8442A,39608,39608.812243,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Optus and Apple to Bring iPhone 3G to Australia on,APPLE08
+D8442A,39608,39608.812359,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"PRESS RELEASE: Orange and Apple to Bring iPhone 3G to Austria, Fr",APPLE08
+D8442A,39608,39608.812426,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Rogers and Apple to Bring iPhone 3G to Canada on July 11,APPLE08
+D8442A,39608,39608.812462,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Rogers And Apple To Bring iPhone 3G To Canada On July 11,APPLE08
+D8442A,39608,39608.812688,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Rogers and Apple to Bring iPhone 3G to Canada on J,APPLE08
+D8442A,39608,39608.813018,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,SingTel and Apple to Bring iPhone 3G to Singapore,APPLE08
+D8442A,39608,39608.813076,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,SingTel And Apple To Bring iPhone 3G To Singapore,APPLE08
+D8442A,39608,39608.813882,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: SingTel and Apple to Bring iPhone 3G to Singapore,APPLE08
+D8442A,39608,39608.813945,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Softbank and Apple to Bring iPhone 3G to Japan on July 11,APPLE08
+D8442A,39608,39608.814026,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Softbank And Apple To Bring iPhone 3G To Japan On July 11,APPLE08
+D8442A,39608,39608.814131,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Softbank and Apple to Bring iPhone 3G to Japan on,APPLE08
+D8442A,39608,39608.814564,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Swisscom and Apple to Bring iPhone 3G to Switzerland on July 11,APPLE08
+D8442A,39608,39608.814664,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Swisscom And Apple To Bring iPhone 3G To Switzerland On July 11,APPLE08
+D8442A,39608,39608.814756,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Swisscom and Apple to Bring iPhone 3G to Switzerla,APPLE08
+D8442A,39608,39608.815214,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Telecom Italia Mobile and Apple to Bring iPhone 3G to Italy on Ju,APPLE08
+D8442A,39608,39608.815303,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Telecom Italia Mobile And Apple To Bring iPhone 3G To Italy On Ju,APPLE08
+D8442A,39608,39608.815398,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Telecom Italia Mobile and Apple to Bring iPhone 3G,APPLE08
+D8442A,39608,39608.815981,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Telefonica and Apple to Bring iPhone 3G to Spain on July 11,APPLE08
+D8442A,39608,39608.816039,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Telefonica And Apple To Bring iPhone 3G To Spain On July 11,APPLE08
+D8442A,39608,39608.816595,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"TeliaSonera and Apple to Bring iPhone 3G to Denmark, Finland, Nor",APPLE08
+D8442A,39608,39608.816667,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"TeliaSonera And Apple To Bring iPhone 3G To Denmark, Finland, Nor",APPLE08
+D8442A,39608,39608.816819,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: TeliaSonera and Apple to Bring iPhone 3G to Denmar,APPLE08
+D8442A,39608,39608.816931,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Telefonica and Apple to Bring iPhone 3G to Spain o,APPLE08
+D8442A,39608,39608.817082,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"T-Mobile and Apple to Launch iPhone 3G in Austria, Germany & the",APPLE08
+D8442A,39608,39608.817164,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"T-Mobile And Apple To Launch iPhone 3G In Austria, Germany & The",APPLE08
+D8442A,39608,39608.817285,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"PRESS RELEASE: T-Mobile and Apple to Launch iPhone 3G in Austria,",APPLE08
+D8442A,39608,39608.818127,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Vodafone and Apple to Bring iPhone 3G to Australia, Italy, New Ze",APPLE08
+D8442A,39608,39608.81816,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Vodafone And Apple To Bring iPhone 3G To Australia, Italy, New Ze",APPLE08
+D8442A,39608,39608.818283,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Vodafone and Apple to Bring iPhone 3G to Australia,APPLE08
+D8442A,39608,39608.84544,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,TeliaSonera AB TeliaSonera and Apple to Bring iPhone 3G to Denmar,APPLE08
+D8442A,39608,39608.874321,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"(BW) TeliaSonera and Apple to Bring iPhone 3G to Denmark, Finland",APPLE08
+D8442A,39608,39608.895882,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,(CNW) Rogers and Apple to Bring iPhone 3G to Canada on July 11,APPLE08
+D8442A,39608,39608.937579,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Previews Mac OS X Snow Leopard to Developers,APPLE08
+D8442A,39608,39608.937583,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Apple Previews Mac OS X Snow Leopard to Developers,APPLE08
+D8442A,39608,39608.938084,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Previews Mac OS X Snow Leopard To Developers,APPLE08
+D8442A,39608,39608.942496,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,"WSJ UPDATE: Apple Unveils Cheaper, Faster IPhone >AAPL",APPLE08
+D8442A,39609,39609.252246,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Vodafone Group iPhone 3G to Launch In Australia, Italy",APPLE08
+D8442A,39609,39609.252555,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Vodafone Group iPhone 3G To Launch In New Zealand, Portugal",APPLE08
+D8442A,39609,39609.252666,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Vodafone Group iPhone 3G To Launch July 11,APPLE08
+D8442A,39609,39609.262916,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Vodafone, Apple To Launch iPhone 3G In 4 Countries July",APPLE08
+D8442A,39609,39609.288163,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple To Launch New iPhone In UK On July 11,APPLE08
+D8442A,39609,39609.324705,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"T-Mobile, Apple To Launch 3G iPhone In 3 Countries July 11",APPLE08
+D8442A,39972,39972.720128,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Says New Apple Notebooks `Most Affordable Line-Up Ever',APPLE09
+D8442A,39972,39972.726815,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils Mac OS X Snow Leopard,APPLE09
+D8442A,39972,39972.728698,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Releases Safari 4 Web Browser >AAPL,APPLE09
+D8442A,39972,39972.730532,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Apple Unveils Mac OS X Snow Leopard,APPLE09
+D8442A,39972,39972.744096,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces Mac OS X Server Snow Leopard,APPLE09
+D8442A,39972,39972.75283,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New Products, OS At Developers Conference",APPLE09
+D8442A,39972,39972.783133,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Introduces New iPhone 3G S; S Is For Speed>AAPL,APPLE09
+D8442A,39972,39972.793617,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Says iPhone 3G S To Be Available In 80 Countries>AAPL,APPLE09
+D8442A,39972,39972.821771,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"3rd UPDATE: Apple Unveils New IPhone; Updates MacBooks, OS",APPLE09
+D8442A,39972,39972.919601,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,"TECH VIEW: Apple Unveils New, Faster iPhone 3GS",APPLE09
+D8442A,39973,39973.385407,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple To Launch New IPhone To Beat Rivals,APPLE09
+D8442A,40336,40336.731497,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple announces new iPhone 4,APPLE10
+D8442A,40336,40336.776377,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple debuts FaceTime video calling feature,APPLE10
+D8442A,40336,40336.779739,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple says iPhone 4 goes on sale June 24,APPLE10
+D8442A,40336,40336.781578,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple says iPhone OS4 available June 21,APPLE10
+D8442A,40336,40336.787011,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Presents iPhone 4,APPLE10
+D8442A,40337,40337.25,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple unveils new iPhone 4 ---- By Ian Sherr,APPLE10
+D8442A,40819,40819.80126,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,KDDI Moves Up iPhone Release To This Year -Nikkei,APPLE11
+D8442A,40820,40820.743756,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple to Launch iCloud on October 12,APPLE11
+D8442A,40820,40820.744088,Apple Inc.,100,0.76,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Unveils Cheaper IPod Nano For $129,APPLE11
+D8442A,40820,40820.744324,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Says New IPod Nano Available Tuesday,APPLE11
+D8442A,40820,40820.744617,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Apple to Launch iCloud on October 12,APPLE11
+D8442A,40820,40820.746668,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple announces new iPhone 4S,APPLE11
+D8442A,40820,40820.747371,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Unveils IPhone 4S With A5 Chip,APPLE11
+D8442A,40820,40820.747752,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils Cloud Product As Wait For New IPhone Continues,APPLE11
+D8442A,40820,40820.761427,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Unveils Siri Voice Command Technology For IPhone,APPLE11
+D8442A,40820,40820.775897,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple: iPhone 4S will ship on Oct. 14 in U.S.,APPLE11
+D8442A,40820,40820.777783,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple Launches iPhone 4S, iOS 5 & iCloud",APPLE11
+D8442A,40820,40820.778083,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"PRESS RELEASE: Apple Launches iPhone 4S, iOS 5 & iCloud",APPLE11
+D8442A,40820,40820.787802,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,UPDATE: Apple Unveils Latest Version Of IPhone,APPLE11
+D8442A,40820,40820.788745,Apple Inc.,100,0.44,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE 1: Apple shows off iPhone 4S, techs still red",APPLE11
+D8442A,40820,40820.793939,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Apple unveils iPhone 4S, cuts iPod prices",APPLE11
+D8442A,40820,40820.817816,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils Its New IPhone Model - 4S,APPLE11
+D8442A,40820,40820.825483,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE 1: Apple unveils iPhone 4S, cuts iPod prices",APPLE11
+D8442A,40820,40820.86174,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MARKET TALK: Clearwire Falls As Apple Unveils Non-WiMAX iPhone,APPLE11
+D8442A,40820,40820.870521,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,2nd UPDATE: Apple Brings Out Latest Version Of IPhone,APPLE11
+D8442A,40820,40820.881909,Apple Inc.,100,0.44,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE 3: Apple shows off iPhone 4S, tech stocks surge",APPLE11
+D8442A,40820,40820.888291,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE 2: Apple unveils iPhone 4S, cuts iPod prices",APPLE11
+D8442A,40820,40820.903034,Apple Inc.,100,0.76,100,business,product-release,product-release,NEWS-FLASH,IHS ISuppli Still Expects Apple To Introduce LTE-Capable IPhone 5,APPLE11
+D8442A,40821,40821.25,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils Latest Version of iPhone ---- By John Letzing,APPLE11
+D8442A,41164,41164.719242,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple debuts iPhone 5 at company event,APPLE12
+D8442A,41164,41164.724492,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,WSJ LIVE BLOG/Digits: Apple Unveils iPhone 5,APPLE12
+D8442A,41164,41164.730661,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Apple unveils iPhone 5,APPLE12
+D8442A,41164,41164.732879,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Introduces iPhone 5, Talks Up Mobile Milestones",APPLE12
+D8442A,41164,41164.741643,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"UPDATE: Apple Introduces iPhone 5, Talks Up Mobile Milestones",APPLE12
+D8442A,41164,41164.74267,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE 1: Apple unveils iPhone 5,APPLE12
+D8442A,41164,41164.742676,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE 1: Apple debuts iPhone 5 at company event,APPLE12
+D8442A,41164,41164.750366,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple: IPhone 4, Released In 2010, Will Be Free With 2-Year Pact",APPLE12
+D8442A,41164,41164.750782,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple: IPhone Ships September 21 In US, Canada, UK And More",APPLE12
+D8442A,41164,41164.751396,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone 5,APPLE12
+D8442A,41164,41164.751465,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Apple Introduces iPhone 5,APPLE12
+D8442A,41164,41164.754891,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Announces New ITunes Version,APPLE12
+D8442A,41164,41164.755174,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,WSJ BLOG/MarketBeat: Apple Unveils iPhone 5; Shares Rise (Eventua,APPLE12
+D8442A,41164,41164.758107,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE 2: Apple unveils iPhone 5,APPLE12
+D8442A,41164,41164.758899,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"WSJ LIVE BLOG/Digits: Apple Unveils iPhone 5, iO6 and Updated iTu",APPLE12
+D8442A,41164,41164.760525,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple: New ITunes Will Be Available In Late October,APPLE12
+D8442A,41164,41164.76122,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,"2nd UPDATE: Apple Introduces Thinner, Faster iPhone 5",APPLE12
+D8442A,41164,41164.761811,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils New iTunes,APPLE12
+D8442A,41164,41164.762028,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Apple Unveils New iTunes,APPLE12
+D8442A,41164,41164.769175,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"WSJ LIVE BLOG/Digits: Apple Unveils iPhone 5, iPod Nano and iO6",APPLE12
+D8442A,41164,41164.776395,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces New iPod touch & iPod nano,APPLE12
+D8442A,41164,41164.776454,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Apple Introduces New iPod touch & iPod nano,APPLE12
+D8442A,41164,41164.778744,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Re-designed iPods to ship in October,APPLE12
+D8442A,41164,41164.785255,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,WSJ LIVE BLOG/Digits: Apple Unveils iPhone 5 and Latest iPod Devi,APPLE12
+D8442A,41164,41164.789,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,WSJ LIVE BLOG/Digits: Apple Unveils iPhone 5 and -2-,APPLE12
+D8442A,41164,41164.791488,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE 3: Apple unveils iPhone 5,APPLE12
+D8442A,41164,41164.80218,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,"3rd UPDATE: Apple Introduces Thinner, Faster iPhone 5",APPLE12
+D8442A,41164,41164.809844,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,"4th UPDATE: Apple Introduces Thinner, Faster iPhone 5",APPLE12
+D8442A,41165,41165.25,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils iPhone 5 ---- By Ian Sherr,APPLE12
+D8442A,41527,41527.717091,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple CEO: To Ship 700 Millionth iOS Device In October,APPLE13
+D8442A,41527,41527.720781,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple to launch iOS 7 on Sept. 18,APPLE13
+D8442A,41527,41527.721686,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple's iOS 7 to launch on Sept. 18,APPLE13
+D8442A,41527,41527.726273,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Barron's Blog:Apple: Unveils 'iPhone 5C' iWork, iPhoto, iMovie Fr",APPLE13
+D8442A,41527,41527.727581,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Barron's Blog:Apple: Unveils 'iPhone 5C'; iWork, iPhoto, iMovie F",APPLE13
+D8442A,41527,41527.732664,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple shows off new iPhone 5S,APPLE13
+D8442A,41527,41527.732865,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Unveils IPhone 5S,APPLE13
+D8442A,41527,41527.734313,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Barron's Blog:Apple: Unveils 'iPhone 5C'; iPhone 5S with 64-bit C,APPLE13
+D8442A,41527,41527.736069,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,All Things D:Apple Debuts iPhone 5S With New 64-Bit A7 Chip,APPLE13
+D8442A,41527,41527.739991,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple unveils iPhone 5S; it comes with 64-bit A7 chip and is a,APPLE13
+D8442A,41527,41527.750479,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,All Things D:Apple Debuts iPhone 5S With New 64-Bit A7 Chip and F,APPLE13
+D8442A,41527,41527.756253,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone 5c--The Most Colorful iPhone Yet,APPLE13
+D8442A,41527,41527.75632,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,PRESS RELEASE: Apple Introduces iPhone 5c--The Most Colorful iPho,APPLE13
+D8442A,41527,41527.756365,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple Says IPhone 5C, 5S Will Be Available September 20",APPLE13
+D8442A,41527,41527.775133,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,All Things D:Apple Debuts iPhone 5s With New 64-Bit A7 Chip and F,APPLE13
+D8442A,41527,41527.780144,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"All Things D:Apple Launches iPhone 5s/5c, to Go on Sale Sept. 20",APPLE13
+D8442A,41527,41527.780144,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"All Things D:Apple Launches iPhone 5s/5c, to Go -2-",APPLE13
+D8442A,41527,41527.788911,Apple Inc.,100,0.44,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: Apple shows off iPhone 5S at event,APPLE13
+D8442A,41527,41527.788923,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: Apple to release iOS 7 Sept. 18,APPLE13
+D8442A,41527,41527.79731,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"All Things D:Apple Launches iPhone 5s/5c, to Go on Sale September",APPLE13
+D8442A,41527,41527.873621,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: 10 snapshots from Apple's latest iPhone launch,APPLE13
+D8442A,41890,41890.714069,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple set to Launch New iPhone/Mobile Wallet With Fingerprint Ide,APPLE14
+D8442A,41890,41890.71407,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple set to Launch New iPhone/Mobile Wallet With -2-,APPLE14
+D8442A,41890,41890.71407,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple set to Launch New iPhone/Mobile Wallet With -3-,APPLE14
+D8442A,41890,41890.890444,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Why you should care where Apple launches iPhone 6,APPLE14
+D8442A,41890,41890.891626,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: Why you should care where Apple launches iPhone 6,APPLE14
+D8442A,41891,41891.707351,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Live: Apple To Unveil IWatch And IPhone 6,APPLE14
+D8442A,41891,41891.711741,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW LIVE BLOG: Apple product-launch event gets underway in Cuperti,APPLE14
+D8442A,41891,41891.712192,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW UPDATE: LIVE BLOG: Apple product-launch event gets underway in,APPLE14
+D8442A,41891,41891.713975,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW UPDATE: LIVE BLOG: Apple product-launch event underway in Cupe,APPLE14
+D8442A,41891,41891.71889,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple unveils iPhone 6 and iPhone 6 Plus,APPLE14
+D8442A,41891,41891.723901,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW UPDATE: Apple unveils iPhone 6 and iPhone 6 Plus,APPLE14
+D8442A,41891,41891.724264,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW UPDATE: LIVE BLOG: Apple unveils iPhone 6 and iPhone 6 Plus,APPLE14
+D8442A,41891,41891.735615,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils IPhone 6 With 5.5-Inch Screen,APPLE14
+D8442A,41891,41891.73859,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Says New iPhones Will Be Available from Sept. 19 in U.S.,APPLE14
+D8442A,41891,41891.752705,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple introduces its long-anticipated iWatch,APPLE14
+D8442A,41891,41891.753228,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW UPDATE: Apple introduces its long-anticipated iWatch,APPLE14
+D8442A,41891,41891.781254,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Announces iOS 8 Available September 17,APPLE14
+D8442A,41891,41891.781254,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils Apple Watch--Apple's Most Personal Device Ever,APPLE14
+D8442A,41891,41891.78147,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Announces iOS 8 Available September 17,APPLE14
+D8442A,41891,41891.781543,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Unveils Apple Watch--Apple's Most Personal D,APPLE14
+D8442A,41891,41891.838633,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE: As Apple unveils new iPhones, its stock is still a bar",APPLE14
+D8442A,41891,41891.94227,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Shows iPhones  And Its Smartwatch  ----  By Daisuke Wakabay,APPLE14
+D8442A,41892,41892.171096,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple  Launches  IPhones,  New Watch  ----  By Daisuke Wakabayash",APPLE14
+D8442A,41892,41892.51042,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,iHookup to Adapt New App Release for Apple Watch,APPLE14
+D8442A,42255,42255.385421,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Adblock Plus Beats Apple to the Punch; Ships Adblock Browser Ahea,APPLE15
+D8442A,42256,42256.264954,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,WSJ.D Technology:  Apple to Unwrap Its Latest Products  ---  New,APPLE15
+D8442A,42256,42256.717608,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Set to Unveil New iPhones,APPLE15
+D8442A,42256,42256.721859,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple announces Apple Watch 0S 2 will be available Sept. 16,APPLE15
+D8442A,42256,42256.723101,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Unveils iPad Pro >AAPL,APPLE15
+D8442A,42256,42256.723984,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"MW Apple unveils iPad Pro, 'most capable and powerful iPad,' says",APPLE15
+D8442A,42256,42256.726431,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPad, Set to Show Off New iPhones--Update",APPLE15
+D8442A,42256,42256.728979,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Apple unveils iPad Pro with biggest screen and 10-hour battery,APPLE15
+D8442A,42256,42256.734399,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPad, Set to Show Off New iPhones--2nd Update",APPLE15
+D8442A,42256,42256.746396,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces iPad Mini 4 >AAPL,APPLE15
+D8442A,42256,42256.747424,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPad, Set to Show Off New iPhones--3rd Update",APPLE15
+D8442A,42256,42256.748676,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces New Apple TV >AAPL,APPLE15
+D8442A,42256,42256.752177,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"MW Apple announces new Apple TV with Siri capable remote, emphasi",APPLE15
+D8442A,42256,42256.757116,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPad, Set to Show Off New iPhones--4th Update",APPLE15
+D8442A,42256,42256.757282,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Announces New tvOS Operating System for Developing TV Apps,APPLE15
+D8442A,42256,42256.759178,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Apple unveils new Apple TV with Siri capable remote,APPLE15
+D8442A,42256,42256.769231,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Announces New iPhones >AAPL,APPLE15
+D8442A,42256,42256.76999,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple Introduces iPhone 6S, iPhone 6S Plus >AAPL",APPLE15
+D8442A,42256,42256.776806,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPad, Set to Show Off New iPhones--5th Update",APPLE15
+D8442A,42256,42256.776863,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Apple announces new phones with 3D Touch technology,APPLE15
+D8442A,42256,42256.777931,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: Apple announces new iPhone 6s and iPhone 6s Plus with,APPLE15
+D8442A,42256,42256.793175,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces iPhone Updgrade Program >AAPL,APPLE15
+D8442A,42256,42256.796531,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces watchOS 2 with Native Apps and New Gold & Rose G,APPLE15
+D8442A,42256,42256.796532,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPad Pro Featuring Epic 12.9-inch Retina Display,APPLE15
+D8442A,42256,42256.797226,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone 6s & iPhone 6s Plus,APPLE15
+D8442A,42256,42256.797243,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces watchOS 2 with Native Apps and Ne,APPLE15
+D8442A,42256,42256.797323,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPad Pro Featuring Epic 12.9-inch,APPLE15
+D8442A,42256,42256.79737,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPhone 6s & iPhone 6s Plus,APPLE15
+D8442A,42256,42256.799612,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils iPhone, iPad, Apple TV--6th Update",APPLE15
+D8442A,42256,42256.813268,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils iPhone, iPad, Apple TV--7th Update",APPLE15
+D8442A,42257,42257.168883,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Shows Off  New iPhones, TV  ----  By Daisuke Wakabayashi",APPLE15
+D8442A,42620,42620.643103,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Set to Unveil Latest iPhone,APPLE16
+D8442A,42620,42620.743526,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Set to Unveil Latest iPhone--Update,APPLE16
+D8442A,42620,42620.748615,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple Introduces Apple Watch Series 2, The Ultimate Device For A",APPLE16
+D8442A,42620,42620.748615,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple & Nike Launch the Perfect Running Partner, Apple Watch Nike",APPLE16
+D8442A,42620,42620.748744,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Press Release: Apple & Nike Launch the Perfect Running Partner, A",APPLE16
+D8442A,42620,42620.748768,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Press Release: Apple Introduces Apple Watch Series 2, The Ultimat",APPLE16
+D8442A,42620,42620.776019,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Pay Will Roll Out in Japan in October,APPLE16
+D8442A,42620,42620.786116,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone 7 & iPhone 7 Plus -- The -2-,APPLE16
+D8442A,42620,42620.786116,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Pay Coming to Japan with iPhone 7,APPLE16
+D8442A,42620,42620.786123,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Pay Coming to Japan with iPhone 7,APPLE16
+D8442A,42620,42620.786219,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPhone 7 & iPhone -2-,APPLE16
+D8442A,42621,42621.173395,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils New iPhone  ---  Latest models remove  headphone ja,APPLE16
+D8442A,42621,42621.20055,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Pay to Launch in Japan With iPhone 7,APPLE16
+D8442A,42621,42621.945272,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Technology:  Apple Pay to Launch in Japan  ----  By Megumi Fujika,APPLE16
+D8442A,42990,42990.72896,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple introduces Apple Watch Series 3 with built-in cellular c,APPLE17
+D8442A,42990,42990.729187,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Unveils Watch With Cellular Capabilities,APPLE17
+D8442A,42990,42990.735442,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple shows off cellular-connected smartwatch at iPhone event:,APPLE17
+D8442A,42990,42990.741152,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils New Products at iPhone Event,APPLE17
+D8442A,42990,42990.742668,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Apple introduces new Series 3 Apple Watch starting at $329,APPLE17
+D8442A,42990,42990.742669,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Introduces New Series 3 Apple Watch Starting At $329 -- Mar,APPLE17
+D8442A,42990,42990.74566,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils Watch With Cellular Connectivity -- Market Talk,APPLE17
+D8442A,42990,42990.750432,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Announces New Apple TV 4K -- Market Talk,APPLE17
+D8442A,42990,42990.762706,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Will Release iOS 11 on Sept. 19,APPLE17
+D8442A,42990,42990.764051,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Apple introduces iPhone X with edge-to-edge display,APPLE17
+D8442A,42990,42990.785707,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces IPhone 8 & iPhone 8 Plus,APPLE17
+D8442A,42990,42990.811977,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils All-New iPhone X To Fend Off Growing Competition,APPLE17
+D8442A,42990,42990.824182,Apple Inc.,100,0.44,100,business,product-release,product-release,FULL-ARTICLE,Apple Shows Off Snap in Product Demo -- Market Talk,APPLE17
+D8442A,42990,42990.834621,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Update: Apple Introduces New Series 3 Apple Watch Starting At $32,APPLE17
+D8442A,42990,42990.834621,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: Apple introduces new Series 3 Apple Watch starting at,APPLE17
+D8442A,42990,42990.884029,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils New IPhone -- Technology Roundup,APPLE17
+D8442A,42991,42991.149905,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Asian markets mixed after Apple announces new iPhones,APPLE17
+D8442A,42991,42991.149934,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,ASIA MARKETS: Asian Markets Mixed After Apple Announces New IPhon,APPLE17
+D8442A,42991,42991.261361,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unleashes  Watch From iPhone  ----  By Wilson Rothman,APPLE17
+D8442A,43354,43354.346487,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Set To Unveil Three New IPhones,APPLE18
+D8442A,43355,43355.717365,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces Watch Series 4,APPLE18
+D8442A,43355,43355.722581,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple Says New Watch Can Detect a Fall, Make Emergency Call",APPLE18
+D8442A,43355,43355.723082,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Introduces Watch With Larger Screen,APPLE18
+D8442A,43355,43355.726503,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils New Series 4 Watch With Bigger Screen -- Market Tal,APPLE18
+D8442A,43355,43355.745882,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Apple unveils iPhone XS, iPhone XS Max",APPLE18
+D8442A,43355,43355.745882,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils Iphone XS, Iphone XS Max -- MarketWatch",APPLE18
+D8442A,43355,43355.786762,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: U.S. stock benchmarks sag as Apple unveils new iPhone,APPLE18
+D8442A,43355,43355.77917,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone XR,APPLE18
+D8442A,43355,43355.77917,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone XR -2-,APPLE18
+D8442A,43355,43355.779564,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPhone XR,APPLE18
+D8442A,43355,43355.779565,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPhone XR -2-,APPLE18
+D8442A,43355,43355.814465,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Introduces Watch With Larger Screen -- Update,APPLE18
+D8442A,43355,43355.961156,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Introduces Watch With Larger Screen -- 2nd Update,APPLE18
+D8442A,43718,43718.72308,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Press Release: Apple TV+ Launches November 1, Featuring Originals",APPLE19
+D8442A,43718,43718.72308,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Press Release: Apple TV+ Launches November 1, -2-",APPLE19
+D8442A,43718,43718.728477,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces New Version of the Most Popular iPad Starting at,APPLE19
+D8442A,43718,43718.728477,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces New Version of the Most Popular -2-,APPLE19
+D8442A,43718,43718.729577,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces New Version of the Most Popular i,APPLE19
+D8442A,43718,43718.729577,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces New Version of -2-,APPLE19
+D8442A,43718,43718.736275,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Apple to launch TV+, Arcade streaming services for $4.99 a mon",APPLE19
+D8442A,43718,43718.736275,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple To Launch TV+, Arcade Streaming Services For $4.99 A Month",APPLE19
+D8442A,43718,43718.742196,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE: Apple to launch TV+, Arcade streaming services for $4.",APPLE19
+D8442A,43718,43718.742196,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Update: Apple To Launch TV+, Arcade Streaming Services For $4.99",APPLE19
+D8442A,43718,43718.7757,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces Dual Camera iPhone 11,APPLE19
+D8442A,43718,43718.7757,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces Dual Camera iPhone 11 -2-,APPLE19
+D8442A,43718,43718.776052,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple to Release New iPhones on Sept. 20,APPLE19
+D8442A,43718,43718.776116,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces Dual Camera iPhone 11,APPLE19
+D8442A,43718,43718.837692,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPhones, Low-Price Subscription Services",APPLE19
+D8442A,43718,43718.978812,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPhones, Low-Price Subscription Services -- Upd",APPLE19
+D8442A,43719,43719.041925,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils New iPhones, Low-Price Subscription Services -- 2nd",APPLE19
+D8442A,43719,43719.942925,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple Introduces iPhone 11, New iPad, and More; More Info at B&H",APPLE19
+D8442A,43719,43719.950248,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Press Release: Apple Introduces iPhone 11, New iPad, and More; Mo",APPLE19
+D8442A,44116,44116.657887,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Launches New iPhones Tuesday. Wall Street Is Pumped. -- Bar,APPLE20
+D8442A,44117,44117.718059,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces HomePod mini: A powerful smart speaker with amaz,APPLE20
+D8442A,44117,44117.718059,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces HomePod mini: A powerful smart -2-,APPLE20
+D8442A,44117,44117.718226,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple introduces HomePod mini: A powerful smart sp,APPLE20
+D8442A,44117,44117.718226,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple introduces HomePod mini: A -2-,APPLE20
+D8442A,44117,44117.729796,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Unveils iPhones With 5G Capabilities,APPLE20
+D8442A,44117,44117.729796,Apple Inc.,100,0.44,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Shows off iPhone 12 With 6.1-Inch Screen,APPLE20
+D8442A,44117,44117.739074,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,"Apple Unveils 'MagSafe' Technology, With Magnetic Charging and Ac",APPLE20
+D8442A,44117,44117.743803,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Apple unveils iPhone 12 and iPhone 12 mini, its first 5G phone",APPLE20
+D8442A,44117,44117.743934,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE: Apple unveils iPhone 12 and iPhone 12 mini, its first",APPLE20
+D8442A,44117,44117.746087,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,"Apple Shows off Four New iPhone Models: iPhone 12, iPhone 12 Mini",APPLE20
+D8442A,44117,44117.754867,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces iPhone 12 Pro and iPhone 12 Pro Max with 5G,APPLE20
+D8442A,44117,44117.754867,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces iPhone 12 Pro and iPhone 12 Pro -2-,APPLE20
+D8442A,44117,44117.754867,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces iPhone 12 Pro and iPhone 12 Pro -3-,APPLE20
+D8442A,44117,44117.755259,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple introduces iPhone 12 Pro and iPhone 12 Pro M,APPLE20
+D8442A,44117,44117.755259,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple introduces iPhone 12 Pro and -2-,APPLE20
+D8442A,44117,44117.755259,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple introduces iPhone 12 Pro and -3-,APPLE20
+D8442A,44117,44117.764597,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,MW Apple rolls out new iPhone 12 Pro and iPhone 12 Pro Max device,APPLE20
+D8442A,44117,44117.764826,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,MW UPDATE: Apple rolls out new iPhone 12 Pro and iPhone 12 Pro Ma,APPLE20
+D8442A,44117,44117.91118,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Reveals Four iPhone 12 Models, Heralding 'New Era' for 5G T",APPLE20
+D8442A,44118,44118.259638,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Technology:  Apple Introduces Four iPhone 12 Models  ----  By Tim,APPLE20
+D8442A,44118,44118.272357,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Introduces Four iPhone 12 Models -- WSJ,APPLE20
+D8442A,44118,44118.754171,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils iPhone 12 Lineup and HomePod mini; More Info at B&H,APPLE20
+D8442A,44452,44452.738059,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Launches New Phones Tomorrow. Here's What You Need To Know.,APPLE21
+D8442A,44453,44453.402817,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple to Reveal New iPhone Lineup,APPLE21
+D8442A,44453,44453.722922,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils New iPad mini with Breakthrough Performance in Stun,APPLE21
+D8442A,44453,44453.722922,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils New iPad mini with Breakthrough -2-,APPLE21
+D8442A,44453,44453.723967,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Unveils New iPad Mini,APPLE21
+D8442A,44453,44453.748526,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple Unveils New iPhone 13 Lineup With A15 Bionic Chip,APPLE21
+D8442A,44453,44453.757189,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Apple reveals iPhone 13, iPad Mini price increase and larger A",APPLE21
+D8442A,44453,44453.761117,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple Reveals Apple Watch Series 7, Featuring a Larger, More Adva",APPLE21
+D8442A,44453,44453.761117,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple Reveals Apple Watch Series 7, Featuring a -2-",APPLE21
+D8442A,44453,44453.761119,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple Introduces iPhone 13 and iPhone 13 mini, Delivering Breakth",APPLE21
+D8442A,44453,44453.761119,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple Introduces iPhone 13 and iPhone 13 mini, -2-",APPLE21
+D8442A,44453,44453.76112,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils iPhone 13 Pro and iPhone 13 Pro Max -- More Pro Tha,APPLE21
+D8442A,44453,44453.76112,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils iPhone 13 Pro and iPhone 13 Pro Max -2-,APPLE21
+D8442A,44453,44453.76112,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Unveils iPhone 13 Pro and iPhone 13 Pro Max -3-,APPLE21
+D8442A,44453,44453.761292,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces iPhone 13 and iPhone 13 Mini,APPLE21
+D8442A,44453,44453.761887,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,"Apple Releases iPhone 13 Pro, Pro Max With New Camera Improvement",APPLE21
+D8442A,44453,44453.761887,Apple Inc.,100,0.52,100,business,product-release,product-release,HOT-NEWS-FLA,Apple to Release an iPhone Model With 1 Terabyte of Storage,APPLE21
+D8442A,44453,44453.762171,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple: Reveals Apple Watch Series 7, Featuring a Larger, More Adv",APPLE21
+D8442A,44453,44453.774562,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Apple reveals iPhone 13 lineup, iPad Mini price increase and l",APPLE21
+D8442A,44811,44811.409765,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple to Unveil iPhone 14 Lineup,APPLE22
+D8442A,44811,44811.720005,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Releases New Apple Watch Series 8 -- WSJ,APPLE22
+D8442A,44811,44811.733874,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Releases New Watch Ultra Aimed at Sports Enthusiasts, SE Mo",APPLE22
+D8442A,44811,44811.749646,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils New AirPods Pro -- WSJ,APPLE22
+D8442A,44811,44811.75626,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils iPhone 14 and Larger iPhone 14 Plus -- WSJ,APPLE22
+D8442A,44811,44811.77069,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Shows Off iPhone 14 Pro Lineup -- WSJ,APPLE22
+D8442A,44811,44811.771532,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone 14 and iPhone 14 Plus,APPLE22
+D8442A,44811,44811.771532,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone 14 and iPhone 14 Plus -2-,APPLE22
+D8442A,44811,44811.771532,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Introduces iPhone 14 and iPhone 14 Plus -3-,APPLE22
+D8442A,44811,44811.771533,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Reveals Apple Watch Series 8 and the New Apple Watch SE,APPLE22
+D8442A,44811,44811.771533,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Reveals Apple Watch Series 8 and the New -2-,APPLE22
+D8442A,44811,44811.771535,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Debuts iPhone 14 Pro and iPhone 14 Pro Max,APPLE22
+D8442A,44811,44811.771535,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Debuts iPhone 14 Pro and iPhone 14 Pro Max -2-,APPLE22
+D8442A,44811,44811.771535,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple Debuts iPhone 14 Pro and iPhone 14 Pro Max -3-,APPLE22
+D8442A,44811,44811.77355,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Debuts iPhone 14 Pro and iPhone 14 Pro Max,APPLE22
+D8442A,44811,44811.77355,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Debuts iPhone 14 Pro and -2-,APPLE22
+D8442A,44811,44811.77355,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Debuts iPhone 14 Pro and -3-,APPLE22
+D8442A,44811,44811.773679,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPhone 14 and iPhone 14 Plus,APPLE22
+D8442A,44811,44811.773679,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPhone 14 and -2-,APPLE22
+D8442A,44811,44811.77368,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Introduces iPhone 14 and -3-,APPLE22
+D8442A,44811,44811.773724,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Reveals Apple Watch Series 8 and the New App,APPLE22
+D8442A,44811,44811.773724,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Press Release: Apple Reveals Apple Watch Series 8 -2-,APPLE22
+D8442A,45181,45181.041667,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Set to Unveil Latest iPhone: 5 Things to Watch -- WSJ,APPLE23
+D8442A,45181,45181.646623,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,iOS 17 Launch Date to Be Announced,APPLE23
+D8442A,45181,45181.713237,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW MarketWatch Live: Apple unveils iPhone 15. Get details here.,APPLE23
+D8442A,45181,45181.718226,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils New Smartwatches With iPhone 15 On Deck -- IBD,APPLE23
+D8442A,45181,45181.718476,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Watch Series 9 Announced,APPLE23
+D8442A,45181,45181.72778,Apple Inc.,100,0.76,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces the advanced new Apple Watch Series 9,APPLE23
+D8442A,45181,45181.742315,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Apple Unveils iPhone 15 Smartphones, New Apple Watches -- IBD",APPLE23
+D8442A,45181,45181.754215,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Dow rises as Apple unveils iPhone 15, with inflation data loom",APPLE23
+D8442A,45181,45181.763891,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces new AirPods Pro (2nd generation) with USB-C char,APPLE23
+D8442A,45181,45181.763892,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple unveils Apple Watch Ultra 2,APPLE23
+D8442A,45181,45181.763892,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple unveils Apple Watch Ultra 2 -2-,APPLE23
+D8442A,45181,45181.763893,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple unveils iPhone 15 Pro and iPhone 15 Pro Max,APPLE23
+D8442A,45181,45181.763893,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple unveils iPhone 15 Pro and iPhone 15 Pro Max -2-,APPLE23
+D8442A,45181,45181.763893,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple unveils iPhone 15 Pro and iPhone 15 Pro Max -3-,APPLE23
+D8442A,45181,45181.763893,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 15 and iPhone 15 Plus,APPLE23
+D8442A,45181,45181.763894,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 15 and iPhone 15 Plus -2-,APPLE23
+D8442A,45181,45181.763894,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 15 and iPhone 15 Plus -3-,APPLE23
+D8442A,45181,45181.764035,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Unveils Apple Watch Ultra 2,APPLE23
+D8442A,45181,45181.765031,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces New AirPods Pro (2nd Generation) With USB-C Char,APPLE23
+D8442A,45181,45181.76539,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Debuts iPhone 15 and iPhone 15 Plus,APPLE23
+D8442A,45181,45181.789633,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW The Dow Jones Industrial Average enters negative territory aft,APPLE23
+D8442A,45181,45181.796321,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils iPhone 15 Smartphones But Investors Are Unimpressed,APPLE23
+D8442A,45181,45181.804225,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Stocks fall after Apple unveils iPhone 15, with U.S. inflation",APPLE23
+D8442A,45181,45181.864683,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Dow snaps three-day win streak as Apple unveils iPhone 15, wit",APPLE23
+D8442A,45544,45544.46744,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple To Unveil iPhone 16 AI Smartphone (Live Coverage) -- IBD,APPLE24
+D8442A,45544,45544.718815,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Debuts Apple Watch 10 (Live Coverage) -- IBD,APPLE24
+D8442A,45544,45544.75149,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils iPhone 16. Stock Down. (Live Coverage) -- IBD,APPLE24
+D8442A,45544,45544.775004,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Introducing Apple Watch Series 10,APPLE24
+D8442A,45544,45544.775005,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Introducing Apple Watch Series 10 -2-,APPLE24
+D8442A,45544,45544.775005,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces AirPods 4 and the world's first all-in-one heari,APPLE24
+D8442A,45544,45544.775005,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces AirPods 4 and the world's first -2-,APPLE24
+D8442A,45544,45544.775005,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces iPhone 16 and iPhone 16 Plus,APPLE24
+D8442A,45544,45544.775005,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces iPhone 16 and iPhone 16 Plus -2-,APPLE24
+D8442A,45544,45544.775005,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces iPhone 16 and iPhone 16 Plus -3-,APPLE24
+D8442A,45544,45544.775006,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 16 Pro and iPhone 16 Pro Max,APPLE24
+D8442A,45544,45544.775006,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 16 Pro and iPhone 16 Pro Max -2-,APPLE24
+D8442A,45544,45544.775007,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 16 Pro and iPhone 16 Pro Max -3-,APPLE24
+D8442A,45544,45544.77513,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces AirPods 4 and the World's First All-In-One Heari,APPLE24
+D8442A,45544,45544.777048,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple: Introducing Apple Watch Series 10,APPLE24
+D8442A,45544,45544.777116,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces iPhone 16 and iPhone 16 Plus,APPLE24
+D8442A,45544,45544.800278,Apple Inc.,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils an AI iPhone -- WSJ,APPLE24
+D8442A,45545,45545.36251,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Launches New IPhone And AI At Its Biggest Event Of The Year,APPLE24
+D8442A,45909,45909.71884,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple: Introduces AirPods Pro 3 Headphones >AAPL,APPLE25
+D8442A,45909,45909.728481,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces Apple Watch SE 3,APPLE25
+D8442A,45909,45909.728481,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces Apple Watch SE 3 -2-,APPLE25
+D8442A,45909,45909.728481,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple introduces Apple Watch SE 3 -3-,APPLE25
+D8442A,45909,45909.736236,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple: Introduces Apple Watch SE 3,APPLE25
+D8442A,45909,45909.756953,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 17,APPLE25
+D8442A,45909,45909.756953,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple debuts iPhone 17 -2-,APPLE25
+D8442A,45909,45909.756953,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple unveils iPhone 17 Pro and iPhone 17 Pro Max, the most power",APPLE25
+D8442A,45909,45909.756953,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple unveils iPhone 17 Pro and iPhone 17 Pro -2-,APPLE25
+D8442A,45909,45909.756953,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,Apple unveils iPhone 17 Pro and iPhone 17 Pro -3-,APPLE25
+D8442A,45909,45909.756954,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple debuts Apple Watch Series 11, featuring groundbreaking heal",APPLE25
+D8442A,45909,45909.756954,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple debuts Apple Watch Series 11, featuring -2-",APPLE25
+D8442A,45909,45909.756954,Apple Inc.,100,0.52,100,business,product-release,product-release,PRESS-RELEAS,"Apple debuts Apple Watch Series 11, featuring -3-",APPLE25
+D8442A,45909,45909.757133,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Apple Unveils iPhone 17 Pro and iPhone 17 Pro Max, the Most Power",APPLE25
+D8442A,45909,45909.757776,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Introduces Thinner Phone iPhone Air,APPLE25
+D8442A,45909,45909.758982,Apple Inc.,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Apple Debuts Apple Watch Series 11,APPLE25
+D8442A,45909,45909.791679,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,Dow Jones Top Company Headlines at 3 PM ET: Apple Releases Thinne,APPLE25
+D8442A,45909,45909.7962,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,"Apple Releases Thinner 'iPhone Air,' Seeking to Boost Upgrades Wi",APPLE25
+D8442A,45909,45909.821833,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,"Apple Releases Thinner 'iPhone Air,' Seeking to Boost Upgrades Wi",APPLE25
+D8442A,45910,45910.272272,Apple Inc.,100,0.76,100,business,product-release,product-release,FULL-ARTICLE,Apple Unveils Thinner iPhone Air -- WSJ,APPLE25
+4A6F00,42646,42646.83971,Alphabet I,100,0.44,100,business,product-release,product-release,NEWS-FLASH,Remedies in EU Shopping Case May Require Google to Display Rival,GOOGLE16
+4A6F00,42647,42647.683289,Alphabet I,100,0.52,100,business,product-release,product-release,NEWS-FLASH,Google Introduces Pixel Smartphone,GOOGLE16
+4A6F00,42647,42647.700361,Alphabet I,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Google Introduces Virtual-Reality headset, Daydream View",GOOGLE16
+4A6F00,42647,42647.745391,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Google Details New 'Pixel' Smartphones, Amazon Echo-Fighter Calle",GOOGLE16
+4A6F00,42647,42647.81077,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Google Brings It Home -- Heard on the Street,GOOGLE16
+4A6F00,42647,42647.823897,Alphabet I,100,0.44,100,business,product-release,product-release,FULL-ARTICLE,"MW Google launches iPhone rival Pixel, plus virtual reality goggl",GOOGLE16
+4A6F00,42647,42647.998721,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Google Details New Pixel Smartphones, Amazon Echo Rival",GOOGLE16
+4A6F00,42648,42648.175249,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Technology:  Google Reveals New Phone  ---  Pixel smartphones  bu,GOOGLE16
+4A6F00,42648,42648.455809,Alphabet I,100,0.44,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE: Google launches iPhone rival Pixel, plus virtual reali",GOOGLE16
+4A6F00,43012,43012.685322,Alphabet I,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Google introduces Google Home Mini,GOOGLE17
+4A6F00,43012,43012.709082,Alphabet I,100,0.52,100,business,product-release,product-release,NEWS-FLASH,MW Google introduces new Pixel 2 smartphones,GOOGLE17
+4A6F00,43012,43012.709361,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Google launches new Home smart speakers, including high-end Ap",GOOGLE17
+4A6F00,43012,43012.709361,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Google Launches New Home Smart Speakers, Including High-end Apple",GOOGLE17
+4A6F00,43012,43012.725995,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Update: Google Launches New Home Smart Speakers, Including High-e",GOOGLE17
+4A6F00,43012,43012.725995,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE: Google launches new Home smart speakers, including hig",GOOGLE17
+4A6F00,43012,43012.732488,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,MW Google launches new Pixel 2 smartphones,GOOGLE17
+4A6F00,43012,43012.732488,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Google Launches New Pixel 2 Smartphones -- MarketWatch,GOOGLE17
+4A6F00,43382,43382.74702,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Google Unveils New Hardware, Including a Tablet-Laptop Hybrid and",GOOGLE18
+4A6F00,43382,43382.750056,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Google Unveils New Hardware,GOOGLE18
+4A6F00,43753,43753.689866,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Google unveils new Pixel 4, Pixelbook, and home devices",GOOGLE19
+4A6F00,44104,44104.789991,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW Google introduces new Pixel 5 smartphone, Chromecast, Nest spe",GOOGLE20
+4A6F00,44104,44104.801152,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"MW UPDATE: Google introduces new Pixel 5 smartphone, Chromecast,",GOOGLE20
+4A6F00,44104,44104.864947,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Google Unveils 5G Pixel Phones, Nest Audio Smart Speaker and Firs",GOOGLE20
+4A6F00,44104,44104.919238,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Google Launches New Pixel Phones, Updated Streaming Video, and Ne",GOOGLE20
+4A6F00,44105,44105.272305,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,Google Unveils Hardware Lineup -- WSJ,GOOGLE20
+4A6F00,44488,44488.732642,Alphabet I,100,0.49,100,business,partnership,partnership,PRESS-RELEAS,"Snap Inc. and Google Partner to Bring ""Quick Tap to Snap"" to Pixe",GOOGLE21
+4A6F00,44488,44488.733233,Alphabet I,100,0.49,100,business,partnership,partnership,PRESS-RELEAS,"Press Release: Snap Inc. and Google Partner to Bring ""Quick Tap t",GOOGLE21
+4A6F00,44488,44488.733319,Alphabet I,100,0.49,100,business,partnership,partnership,NEWS-FLASH,Snap Inc. and Google Partner to Bring 'Quick Tap to Snap' to Pixe,GOOGLE21
+4A6F00,44840,44840.614584,Alphabet I,100,0.44,100,business,product-enhance,product-enhance,FULL-ARTICLE,"Google Expands Its Hardware With New Pixel Watch, Pixel 7 and 7 P",GOOGLE22
+4A6F00,44840,44840.625042,Alphabet I,100,0.44,100,business,product-enhance,product-enhance,FULL-ARTICLE,"Google Expands Its Hardware With New Pixel Watch, Pixel 7 and 7 P",GOOGLE22
+4A6F00,45218,45218.327102,Alphabet I,100,0.49,100,business,partnership,partnership,NEWS-FLASH,"Google to Partner With International, Domestic Manufacturers to P",GOOGLE23
+4A6F00,45517,45517.743106,Alphabet I,100,0.52,100,business,product-release,product-release,FULL-ARTICLE,"Google Unveils Gemini AI Assistant, Pixel 9 Phones. Takes Aim At",GOOGLE24
+4A6F00,45818,45818.914229,Alphabet I,100,0.52,100,business,product-release,product-release,NEWS-FLASH,"Google Launches Android 16, Rolling Out First to Supported Pixel",GOOGLE25

@@ -1,0 +1,412 @@
+variable,dataset,count,unique,top,freq,mean,std,min,25%,50%,75%,max,dtype,missing
+PERMNO,AAPL,4781.0,,,,14593.0,0.0,14593.0,14593.0,14593.0,14593.0,14593.0,int64,0
+date,AAPL,4781,4781,2006-01-03,1,,,,,,,,object,0
+NCUSIP,AAPL,4781.0,,,,3783310.0,0.0,3783310.0,3783310.0,3783310.0,3783310.0,3783310.0,int64,0
+TICKER,AAPL,4781,1,AAPL,4781,,,,,,,,object,0
+PERMCO,AAPL,4781.0,,,,7.0,0.0,7.0,7.0,7.0,7.0,7.0,int64,0
+NWPERM,AAPL,1.0,,,,0.0,,0.0,0.0,0.0,0.0,0.0,float64,4780
+PRC,AAPL,4781.0,,,,219.09443874503242,141.98997063706878,50.67,124.24,170.33,254.22,702.09998,float64,0
+VOL,AAPL,4781.0,,,,41272474.61346999,30720992.17233272,5704942.0,20629636.0,32189246.0,52425169.0,331572938.0,int64,0
+RET,AAPL,4781.0,,,,0.001194135327337377,0.019995026698850633,-0.179195,-0.008204,0.001001,0.011478,0.13905,float64,0
+SHROUT,AAPL,4781.0,,,,5738470.80464338,5892587.322169605,845617.0,906795.0,4519180.0,5864840.0,17102536.0,int64,0
+PERMNO,GOOGL,4781.0,,,,90319.0,0.0,90319.0,90319.0,90319.0,90319.0,90319.0,int64,0
+date,GOOGL,4781,4781,2006-01-03,1,,,,,,,,object,0
+NCUSIP,GOOGL,4781,2,38259P50,2455,,,,,,,,object,0
+TICKER,GOOGL,4781,2,GOOGL,2705,,,,,,,,object,0
+PERMCO,GOOGL,4781.0,,,,45483.0,0.0,45483.0,45483.0,45483.0,45483.0,45483.0,int64,0
+NWPERM,GOOGL,1.0,,,,0.0,,0.0,0.0,0.0,0.0,0.0,float64,4780
+PRC,GOOGL,4781.0,,,,814.746042693997,616.9532003078217,83.43,469.94,610.94,1051.96997,2996.77002,float64,0
+VOL,GOOGL,4781.0,,,,6614507.769085965,10369459.653931005,463061.0,1654907.0,2505150.0,5272551.0,119120753.0,int64,0
+RET,GOOGL,4781.0,,,,0.0007840845011503869,0.01881199278612786,-0.116342,-0.007906,0.00075,0.009649,0.199915,float64,0
+SHROUT,GOOGL,4781.0,,,,1002126.282786028,1896133.0526011381,199495.0,246464.0,289834.0,300047.0,6015280.0,int64,0
+date,FF_Factors,4946,4946,2006-01-03,1,,,,,,,,object,0
+mktrf,FF_Factors,4946.0,,,,0.00042806308127780026,0.012501213569759856,-0.1201,-0.0043,0.0007,0.0061,0.1136,float64,0
+rf,FF_Factors,4946.0,,,,6.423372422159322e-05,8.328802439755972e-05,0.0,0.0,0.0,0.0001,0.0002,float64,0
+costat,Compustat,156,1,A,156,,,,,,,,object,0
+curcdq,Compustat,156,1,USD,156,,,,,,,,object,0
+datafmt,Compustat,156,1,STD,156,,,,,,,,object,0
+indfmt,Compustat,156,1,INDL,156,,,,,,,,object,0
+consol,Compustat,156,1,C,156,,,,,,,,object,0
+tic,Compustat,156,2,AAPL,78,,,,,,,,object,0
+datadate,Compustat,156,78,2006-03-31,2,,,,,,,,object,0
+gvkey,Compustat,156.0,,,,81009.5,79574.95798825318,1690.0,1690.0,81009.5,160329.0,160329.0,int64,0
+conm,Compustat,156,2,APPLE INC,78,,,,,,,,object,0
+fyr,Compustat,156.0,,,,10.5,1.504830930381303,9.0,9.0,10.5,12.0,12.0,int64,0
+atq,Compustat,156.0,,,,205311.37799358973,137097.3204933001,11294.87,64827.0,202922.5,335617.5,502053.0,float64,0
+ceqq,Compustat,156.0,,,,106850.9658525641,79839.8759275374,8682.0,48586.0,89792.5,134055.75,359716.0,float64,0
+cshoq,Compustat,156.0,,,,4213.620173076923,5583.141695368738,295.063,674.19,889.3705,5494.95625,16976.763,float64,0
+saleq,Compustat,156.0,,,,42155.91676923077,32889.68156843234,2253.755,11861.75,36885.5,68281.25,124300.0,float64,0
+rp_entity_id,Launch_Events_apple07,20,1,D8442A,20,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple07,20.0,,,,39091.1,0.3077935056255462,39091.0,39091.0,39091.0,39091.0,39092.0,int64,0
+timestamp_utc,Launch_Events_apple07,20,,,,2007-01-09 21:08:03.538399744,,2007-01-09 17:41:45.227000,2007-01-09 18:05:11.362000128,2007-01-09 19:11:13.034500096,2007-01-09 20:58:42.582249984,2007-01-10 12:45:03,datetime64[ns],0
+entity_name,Launch_Events_apple07,20,1,Apple Inc.,20,,,,,,,,object,0
+relevance,Launch_Events_apple07,20.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple07,20.0,,,,0.5199999999999999,1.1390647892519134e-16,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple07,20.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple07,20,1,business,20,,,,,,,,object,0
+type,Launch_Events_apple07,20,1,product-release,20,,,,,,,,object,0
+category,Launch_Events_apple07,20,1,product-release,20,,,,,,,,object,0
+news_type,Launch_Events_apple07,20,2,FULL-ARTICLE,13,,,,,,,,object,0
+headline,Launch_Events_apple07,20,20,Jobs Says Apple TV To Ship In February At $299 >AAPL,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple08,68,1,D8442A,68,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple08,68.0,,,,39608.08823529412,0.2857456398198083,39608.0,39608.0,39608.0,39608.0,39609.0,int64,0
+timestamp_utc,Launch_Events_apple08,68,,,,2008-06-09 20:36:55.945220608,,2008-06-09 17:09:55.712000,2008-06-09 19:25:37.568250112,2008-06-09 19:32:02.141500160,2008-06-09 19:36:45.552999936,2008-06-10 07:47:34.532000,datetime64[ns],0
+entity_name,Launch_Events_apple08,68,1,Apple Inc.,68,,,,,,,,object,0
+relevance,Launch_Events_apple08,68.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple08,68.0,,,,0.5235294117647061,0.02910427500435996,0.52,0.52,0.52,0.52,0.76,float64,0
+event_relevance,Launch_Events_apple08,68.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple08,68,1,business,68,,,,,,,,object,0
+type,Launch_Events_apple08,68,1,product-release,68,,,,,,,,object,0
+category,Launch_Events_apple08,68,1,product-release,68,,,,,,,,object,0
+news_type,Launch_Events_apple08,68,3,PRESS-RELEASE,40,,,,,,,,object,0
+headline,Launch_Events_apple08,68,68,Apple Says New Operating System Called Snow Leopard,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple09,11,1,D8442A,11,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple09,11.0,,,,39972.09090909091,0.30151134457776363,39972.0,39972.0,39972.0,39972.0,39973.0,int64,0
+timestamp_utc,Launch_Events_apple09,11,,,,2009-06-08 19:52:08.414999808,,2009-06-08 17:16:59.019000,2009-06-08 17:30:38.760999936,2009-06-08 18:04:04.472000,2009-06-08 19:23:04.774999808,2009-06-09 09:14:59.175000,datetime64[ns],0
+entity_name,Launch_Events_apple09,11,1,Apple Inc.,11,,,,,,,,object,0
+relevance,Launch_Events_apple09,11.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple09,11.0,,,,0.5418181818181818,0.07236272269866327,0.52,0.52,0.52,0.52,0.76,float64,0
+event_relevance,Launch_Events_apple09,11.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple09,11,1,business,11,,,,,,,,object,0
+type,Launch_Events_apple09,11,1,product-release,11,,,,,,,,object,0
+category,Launch_Events_apple09,11,1,product-release,11,,,,,,,,object,0
+news_type,Launch_Events_apple09,11,4,FULL-ARTICLE,4,,,,,,,,object,0
+headline,Launch_Events_apple09,11,11,Apple Says New Apple Notebooks `Most Affordable Line-Up Ever',1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple10,6,1,D8442A,6,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple10,6.0,,,,40336.166666666664,0.408248290463863,40336.0,40336.0,40336.0,40336.0,40337.0,int64,0
+timestamp_utc,Launch_Events_apple10,6,,,,2010-06-07 20:25:29.320666624,,2010-06-07 17:33:21.343000,2010-06-07 18:39:11.584000,2010-06-07 18:44:08.935000064,2010-06-07 18:51:20.416749824,2010-06-08 06:00:00,datetime64[ns],0
+entity_name,Launch_Events_apple10,6,1,Apple Inc.,6,,,,,,,,object,0
+relevance,Launch_Events_apple10,6.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple10,6.0,,,,0.52,0.0,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple10,6.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple10,6,1,business,6,,,,,,,,object,0
+type,Launch_Events_apple10,6,1,product-release,6,,,,,,,,object,0
+category,Launch_Events_apple10,6,1,product-release,6,,,,,,,,object,0
+news_type,Launch_Events_apple10,6,3,NEWS-FLASH,4,,,,,,,,object,0
+css,Launch_Events_apple10,6.0,,,,0.0033333333333333335,0.00816496580927726,0.0,0.0,0.0,0.0,0.02,float64,0
+headline,Launch_Events_apple10,6,6,Apple announces new iPhone 4,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple11,23,1,D8442A,23,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple11,23.0,,,,40820.0,0.30151134457776363,40819.0,40820.0,40820.0,40820.0,40821.0,int64,0
+timestamp_utc,Launch_Events_apple11,23,,,,2011-10-04 18:33:19.618173952,,2011-10-03 19:13:48.880000,2011-10-04 17:55:42.511000064,2011-10-04 18:40:26.328999936,2011-10-04 20:14:48.020999936,2011-10-05 06:00:00,datetime64[ns],0
+entity_name,Launch_Events_apple11,23,1,Apple Inc.,23,,,,,,,,object,0
+relevance,Launch_Events_apple11,23.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple11,23.0,,,,0.5339130434782607,0.07493871013488183,0.44,0.52,0.52,0.52,0.76,float64,0
+event_relevance,Launch_Events_apple11,23.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple11,23,1,business,23,,,,,,,,object,0
+type,Launch_Events_apple11,23,1,product-release,23,,,,,,,,object,0
+category,Launch_Events_apple11,23,1,product-release,23,,,,,,,,object,0
+news_type,Launch_Events_apple11,23,4,FULL-ARTICLE,12,,,,,,,,object,0
+css,Launch_Events_apple11,23.0,,,,-0.07130434782608694,0.15963892063102017,-0.62,-0.14,0.0,0.0,0.1,float64,0
+headline,Launch_Events_apple11,23,23,KDDI Moves Up iPhone Release To This Year -Nikkei,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple12,29,1,D8442A,29,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple12,29.0,,,,41164.03448275862,0.18569533817705186,41164.0,41164.0,41164.0,41164.0,41165.0,int64,0
+timestamp_utc,Launch_Events_apple12,29,,,,2012-09-12 18:39:12.045620736,,2012-09-12 17:15:42.493000,2012-09-12 18:00:31.654000128,2012-09-12 18:12:48.846000128,2012-09-12 18:38:05.620000,2012-09-13 06:00:00,datetime64[ns],0
+entity_name,Launch_Events_apple12,29,1,Apple Inc.,29,,,,,,,,object,0
+relevance,Launch_Events_apple12,29.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple12,29.0,,,,0.5448275862068965,0.07438417120670482,0.52,0.52,0.52,0.52,0.76,float64,0
+event_relevance,Launch_Events_apple12,29.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple12,29,1,business,29,,,,,,,,object,0
+type,Launch_Events_apple12,29,1,product-release,29,,,,,,,,object,0
+category,Launch_Events_apple12,29,1,product-release,29,,,,,,,,object,0
+news_type,Launch_Events_apple12,29,3,FULL-ARTICLE,17,,,,,,,,object,0
+css,Launch_Events_apple12,29.0,,,,0.036551724137931035,0.10744685935943822,-0.06,0.0,0.0,0.02,0.56,float64,0
+headline,Launch_Events_apple12,29,29,MW Apple debuts iPhone 5 at company event,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple13,21,1,D8442A,21,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple13,21.0,,,,41527.0,0.0,41527.0,41527.0,41527.0,41527.0,41527.0,int64,0
+timestamp_utc,Launch_Events_apple13,21,,,,2013-09-10 18:09:48.001476352,,2013-09-10 17:12:36.676000,2013-09-10 17:35:02.168999936,2013-09-10 18:00:41.391000064,2013-09-10 18:43:24.419000064,2013-09-10 20:58:00.854000,datetime64[ns],0
+entity_name,Launch_Events_apple13,21,1,Apple Inc.,21,,,,,,,,object,0
+relevance,Launch_Events_apple13,21.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple13,21.0,,,,0.5161904761904761,0.017457431218879396,0.44,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple13,21.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple13,21,1,business,21,,,,,,,,object,0
+type,Launch_Events_apple13,21,1,product-release,21,,,,,,,,object,0
+category,Launch_Events_apple13,21,1,product-release,21,,,,,,,,object,0
+news_type,Launch_Events_apple13,21,3,FULL-ARTICLE,12,,,,,,,,object,0
+css,Launch_Events_apple13,21.0,,,,-0.021904761904761903,0.04094130525753272,-0.16,-0.06,0.0,0.0,0.0,float64,0
+headline,Launch_Events_apple13,21,21,Apple CEO: To Ship 700 Millionth iOS Device In October,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple14,24,1,D8442A,24,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple14,24.0,,,,41890.875,0.5366968215490656,41890.0,41891.0,41891.0,41891.0,41892.0,int64,0
+timestamp_utc,Launch_Events_apple14,24,,,,2014-09-09 14:30:16.813833216,,2014-09-08 17:08:15.590000,2014-09-09 17:03:19.562249984,2014-09-09 17:31:06.774000128,2014-09-09 18:45:05.027749888,2014-09-10 12:15:00.328000,datetime64[ns],0
+entity_name,Launch_Events_apple14,24,1,Apple Inc.,24,,,,,,,,object,0
+relevance,Launch_Events_apple14,24.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple14,24.0,,,,0.52,0.0,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple14,24.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple14,24,1,business,24,,,,,,,,object,0
+type,Launch_Events_apple14,24,1,product-release,24,,,,,,,,object,0
+category,Launch_Events_apple14,24,1,product-release,24,,,,,,,,object,0
+news_type,Launch_Events_apple14,24,4,PRESS-RELEASE,8,,,,,,,,object,0
+css,Launch_Events_apple14,24.0,,,,0.006666666666666667,0.014039282363260679,0.0,0.0,0.0,0.0,0.04,float64,0
+headline,Launch_Events_apple14,24,24,Apple set to Launch New iPhone/Mobile Wallet With Fingerprint Identification,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple15,31,1,D8442A,31,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple15,31.0,,,,42256.0,0.2581988897471611,42255.0,42256.0,42256.0,42256.0,42257.0,int64,0
+timestamp_utc,Launch_Events_apple15,31,,,,2015-09-09 17:12:17.554967552,,2015-09-08 09:15:00.378000,2015-09-09 17:33:37.930499840,2015-09-09 18:13:12.969999872,2015-09-09 19:07:00.306000128,2015-09-10 04:03:11.490000,datetime64[ns],0
+entity_name,Launch_Events_apple15,31,1,Apple Inc.,31,,,,,,,,object,0
+relevance,Launch_Events_apple15,31.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple15,31.0,,,,0.5199999999999999,1.1285750616986414e-16,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple15,31.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple15,31,1,business,31,,,,,,,,object,0
+type,Launch_Events_apple15,31,1,product-release,31,,,,,,,,object,0
+category,Launch_Events_apple15,31,1,product-release,31,,,,,,,,object,0
+news_type,Launch_Events_apple15,31,3,FULL-ARTICLE,14,,,,,,,,object,0
+css,Launch_Events_apple15,31.0,,,,-0.01935483870967742,0.05784666420062427,-0.24,-0.03,0.0,0.0,0.1,float64,0
+headline,Launch_Events_apple15,31,31,Adblock Plus Beats Apple to the Punch; Ships Adblock Browser Ahead of iOS 9,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple16,14,1,D8442A,14,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple16,14.0,,,,42620.21428571428,0.4258153136263201,42620.0,42620.0,42620.0,42620.0,42621.0,int64,0
+timestamp_utc,Launch_Events_apple16,14,,,,2016-09-07 21:38:10.717143040,,2016-09-07 15:26:04.122000,2016-09-07 17:58:03.108749824,2016-09-07 18:44:44.237500160,2016-09-07 18:52:07.223250176,2016-09-08 22:41:11.523000,datetime64[ns],0
+entity_name,Launch_Events_apple16,14,1,Apple Inc.,14,,,,,,,,object,0
+relevance,Launch_Events_apple16,14.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple16,14.0,,,,0.5199999999999998,2.304265763365491e-16,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple16,14.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple16,14,1,business,14,,,,,,,,object,0
+type,Launch_Events_apple16,14,1,product-release,14,,,,,,,,object,0
+category,Launch_Events_apple16,14,1,product-release,14,,,,,,,,object,0
+news_type,Launch_Events_apple16,14,3,PRESS-RELEASE,8,,,,,,,,object,0
+css,Launch_Events_apple16,14.0,,,,-0.014285714285714287,0.10768288812807908,-0.24,0.0,0.0,0.015,0.12,float64,0
+headline,Launch_Events_apple16,14,14,Apple Set to Unveil Latest iPhone,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple17,19,1,D8442A,19,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple17,19.0,,,,42990.15789473684,0.3746343246326776,42990.0,42990.0,42990.0,42990.0,42991.0,int64,0
+timestamp_utc,Launch_Events_apple17,19,,,,2017-09-12 20:11:03.597052672,,2017-09-12 17:29:42.159000,2017-09-12 17:49:26.560000,2017-09-12 18:20:14.007000064,2017-09-12 20:01:51.218500096,2017-09-13 06:16:21.601000,datetime64[ns],0
+entity_name,Launch_Events_apple17,19,1,Apple Inc.,19,,,,,,,,object,0
+relevance,Launch_Events_apple17,19.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple17,19.0,,,,0.5157894736842105,0.018353258709644944,0.44,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple17,19.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple17,19,1,business,19,,,,,,,,object,0
+type,Launch_Events_apple17,19,1,product-release,19,,,,,,,,object,0
+category,Launch_Events_apple17,19,1,product-release,19,,,,,,,,object,0
+news_type,Launch_Events_apple17,19,3,FULL-ARTICLE,13,,,,,,,,object,0
+css,Launch_Events_apple17,19.0,,,,0.028421052631578948,0.062295278748762055,-0.08,0.0,0.0,0.1,0.1,float64,0
+headline,Launch_Events_apple17,19,19,MW Apple introduces Apple Watch Series 3 with built-in cellular capability,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple18,14,1,D8442A,14,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple18,14.0,,,,43354.92857142857,0.2672612419124244,43354.0,43355.0,43355.0,43355.0,43355.0,int64,0
+timestamp_utc,Launch_Events_apple18,14,,,,2018-09-12 16:07:38.546714624,,2018-09-11 08:18:56.440000,2018-09-12 17:22:28.188000,2018-09-12 18:18:02.254500096,2018-09-12 18:42:34.375500032,2018-09-12 23:04:03.867000,datetime64[ns],0
+entity_name,Launch_Events_apple18,14,1,Apple Inc.,14,,,,,,,,object,0
+relevance,Launch_Events_apple18,14.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple18,14.0,,,,0.5199999999999998,2.304265763365491e-16,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple18,14.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple18,14,1,business,14,,,,,,,,object,0
+type,Launch_Events_apple18,14,1,product-release,14,,,,,,,,object,0
+category,Launch_Events_apple18,14,1,product-release,14,,,,,,,,object,0
+news_type,Launch_Events_apple18,14,3,FULL-ARTICLE,7,,,,,,,,object,0
+css,Launch_Events_apple18,14.0,,,,-0.02142857142857143,0.04801556524185158,-0.1,-0.06,0.0,0.0,0.08,float64,0
+headline,Launch_Events_apple18,14,14,Apple Set To Unveil Three New IPhones,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple19,19,1,D8442A,19,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple19,19.0,,,,43718.15789473684,0.3746343246326776,43718.0,43718.0,43718.0,43718.0,43719.0,int64,0
+timestamp_utc,Launch_Events_apple19,19,,,,2019-09-10 21:41:38.239947264,,2019-09-10 17:21:14.109000,2019-09-10 17:30:35.452499968,2019-09-10 17:48:45.745999872,2019-09-10 19:21:56.540000,2019-09-11 22:48:21.454000,datetime64[ns],0
+entity_name,Launch_Events_apple19,19,1,Apple Inc.,19,,,,,,,,object,0
+relevance,Launch_Events_apple19,19.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple19,19.0,,,,0.5199999999999999,1.1406457265696477e-16,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple19,19.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple19,19,1,business,19,,,,,,,,object,0
+type,Launch_Events_apple19,19,1,product-release,19,,,,,,,,object,0
+category,Launch_Events_apple19,19,1,product-release,19,,,,,,,,object,0
+news_type,Launch_Events_apple19,19,3,PRESS-RELEASE,11,,,,,,,,object,0
+css,Launch_Events_apple19,19.0,,,,0.005263157894736843,0.05881878205817439,-0.08,0.0,0.0,0.0,0.1,float64,0
+headline,Launch_Events_apple19,19,19,"Press Release: Apple TV+ Launches November 1, Featuring Originals from the World's Greatest Storytellers",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple20,23,1,D8442A,23,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple20,23.0,,,,44117.086956521736,0.41702882811414954,44116.0,44117.0,44117.0,44117.0,44118.0,int64,0
+timestamp_utc,Launch_Events_apple20,23,,,,2020-10-13 19:00:44.183434752,,2020-10-12 15:47:21.461000,2020-10-13 17:30:54.367000064,2020-10-13 18:07:00.502000128,2020-10-13 18:14:17.758500096,2020-10-14 18:06:00.365000,datetime64[ns],0
+entity_name,Launch_Events_apple20,23,1,Apple Inc.,23,,,,,,,,object,0
+relevance,Launch_Events_apple20,23.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple20,23.0,,,,0.537391304347826,0.07218772190390751,0.44,0.52,0.52,0.52,0.76,float64,0
+event_relevance,Launch_Events_apple20,23.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple20,23,1,business,23,,,,,,,,object,0
+type,Launch_Events_apple20,23,1,product-release,23,,,,,,,,object,0
+category,Launch_Events_apple20,23,1,product-release,23,,,,,,,,object,0
+news_type,Launch_Events_apple20,23,3,PRESS-RELEASE,11,,,,,,,,object,0
+css,Launch_Events_apple20,23.0,,,,0.002608695652173913,0.05162957145107196,-0.08,0.0,0.0,0.0,0.12,float64,0
+headline,Launch_Events_apple20,23,23,Apple Launches New iPhones Tuesday. Wall Street Is Pumped. -- Barrons.com,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple21,19,1,D8442A,19,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple21,19.0,,,,44452.94736842105,0.22941573387056177,44452.0,44453.0,44453.0,44453.0,44453.0,int64,0
+timestamp_utc,Launch_Events_apple21,19,,,,2021-09-14 16:22:41.321105152,,2021-09-13 17:42:48.269000,2021-09-14 17:40:11.672999936,2021-09-14 18:16:00.647000064,2021-09-14 18:16:08.190500096,2021-09-14 18:35:22.136000,datetime64[ns],0
+entity_name,Launch_Events_apple21,19,1,Apple Inc.,19,,,,,,,,object,0
+relevance,Launch_Events_apple21,19.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple21,19.0,,,,0.5199999999999999,1.1406457265696477e-16,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple21,19.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple21,19,1,business,19,,,,,,,,object,0
+type,Launch_Events_apple21,19,1,product-release,19,,,,,,,,object,0
+category,Launch_Events_apple21,19,1,product-release,19,,,,,,,,object,0
+news_type,Launch_Events_apple21,19,4,PRESS-RELEASE,9,,,,,,,,object,0
+css,Launch_Events_apple21,19.0,,,,0.010526315789473684,0.026135051858997994,0.0,0.0,0.0,0.0,0.08,float64,0
+headline,Launch_Events_apple21,19,19,Apple Launches New Phones Tomorrow. Here's What You Need To Know. -- Barrons.com,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple22,22,1,D8442A,22,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple22,22.0,,,,44811.0,0.0,44811.0,44811.0,44811.0,44811.0,44811.0,int64,0
+timestamp_utc,Launch_Events_apple22,22,,,,2022-09-07 18:00:06.443409152,,2022-09-07 09:50:03.685000,2022-09-07 18:30:05.803749888,2022-09-07 18:31:00.510000128,2022-09-07 18:33:54.698249984,2022-09-07 18:34:09.763000,datetime64[ns],0
+entity_name,Launch_Events_apple22,22,1,Apple Inc.,22,,,,,,,,object,0
+relevance,Launch_Events_apple22,22.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple22,22.0,,,,0.5199999999999999,1.136349493877995e-16,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple22,22.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple22,22,1,business,22,,,,,,,,object,0
+type,Launch_Events_apple22,22,1,product-release,22,,,,,,,,object,0
+category,Launch_Events_apple22,22,1,product-release,22,,,,,,,,object,0
+news_type,Launch_Events_apple22,22,2,PRESS-RELEASE,16,,,,,,,,object,0
+css,Launch_Events_apple22,22.0,,,,0.0072727272727272745,0.028649244680780353,-0.06,0.0,0.0,0.0,0.1,float64,0
+headline,Launch_Events_apple22,22,22,Apple to Unveil iPhone 14 Lineup,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple23,24,1,D8442A,24,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple23,24.0,,,,45181.0,0.0,45181.0,45181.0,45181.0,45181.0,45181.0,int64,0
+timestamp_utc,Launch_Events_apple23,24,,,,2023-09-12 17:29:12.811625216,,2023-09-12 01:00:00.056000,2023-09-12 17:43:42.074249984,2023-09-12 18:20:00.335500032,2023-09-12 18:20:34.126749952,2023-09-12 20:45:08.653000,datetime64[ns],0
+entity_name,Launch_Events_apple23,24,1,Apple Inc.,24,,,,,,,,object,0
+relevance,Launch_Events_apple23,24.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple23,24.0,,,,0.53,0.04898979485566356,0.52,0.52,0.52,0.52,0.76,float64,0
+event_relevance,Launch_Events_apple23,24.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple23,24,1,business,24,,,,,,,,object,0
+type,Launch_Events_apple23,24,1,product-release,24,,,,,,,,object,0
+category,Launch_Events_apple23,24,1,product-release,24,,,,,,,,object,0
+news_type,Launch_Events_apple23,24,3,FULL-ARTICLE,11,,,,,,,,object,0
+css,Launch_Events_apple23,24.0,,,,-0.029166666666666664,0.07621004536472048,-0.24,-0.08,0.0,0.0,0.04,float64,0
+headline,Launch_Events_apple23,24,24,Apple Set to Unveil Latest iPhone: 5 Things to Watch -- WSJ,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple24,18,1,D8442A,18,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple24,18.0,,,,45544.055555555555,0.23570226039551584,45544.0,45544.0,45544.0,45544.0,45545.0,int64,0
+timestamp_utc,Launch_Events_apple24,18,,,,2024-09-09 18:54:23.424666624,,2024-09-09 11:13:06.856000,2024-09-09 18:36:00.399749888,2024-09-09 18:36:00.466000128,2024-09-09 18:36:08.554250240,2024-09-10 08:42:00.897000,datetime64[ns],0
+entity_name,Launch_Events_apple24,18,1,Apple Inc.,18,,,,,,,,object,0
+relevance,Launch_Events_apple24,18.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple24,18.0,,,,0.52,0.0,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_apple24,18.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple24,18,1,business,18,,,,,,,,object,0
+type,Launch_Events_apple24,18,1,product-release,18,,,,,,,,object,0
+category,Launch_Events_apple24,18,1,product-release,18,,,,,,,,object,0
+news_type,Launch_Events_apple24,18,3,PRESS-RELEASE,10,,,,,,,,object,0
+css,Launch_Events_apple24,18.0,,,,0.0011111111111111122,0.0898291770292461,-0.24,0.0,0.02,0.04,0.1,float64,0
+headline,Launch_Events_apple24,18,18,Apple To Unveil iPhone 16 AI Smartphone (Live Coverage) -- IBD,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_apple25,20,1,D8442A,20,,,,,,,,object,0
+rpa_date_utc,Launch_Events_apple25,20.0,,,,45909.05,0.22360679774997896,45909.0,45909.0,45909.0,45909.0,45910.0,int64,0
+timestamp_utc,Launch_Events_apple25,20,,,,2025-09-09 18:46:56.732599808,,2025-09-09 17:15:07.819000,2025-09-09 18:02:33.233750016,2025-09-09 18:10:00.804999936,2025-09-09 18:11:37.916499968,2025-09-10 06:32:04.304000,datetime64[ns],0
+entity_name,Launch_Events_apple25,20,1,Apple Inc.,20,,,,,,,,object,0
+relevance,Launch_Events_apple25,20.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_apple25,20.0,,,,0.568,0.09849392180017479,0.52,0.52,0.52,0.52,0.76,float64,0
+event_relevance,Launch_Events_apple25,20.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_apple25,20,1,business,20,,,,,,,,object,0
+type,Launch_Events_apple25,20,1,product-release,20,,,,,,,,object,0
+category,Launch_Events_apple25,20,1,product-release,20,,,,,,,,object,0
+news_type,Launch_Events_apple25,20,3,PRESS-RELEASE,11,,,,,,,,object,0
+css,Launch_Events_apple25,20.0,,,,0.018,0.04396170582390278,0.0,0.0,0.0,0.0,0.12,float64,0
+headline,Launch_Events_apple25,20,20,Apple: Introduces AirPods Pro 3 Headphones >AAPL,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google16,9,1,4A6F00,9,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google16,9.0,,,,42647.11111111111,0.6009252125773316,42646.0,42647.0,42647.0,42647.0,42648.0,int64,0
+timestamp_utc,Launch_Events_google16,9,,,,2016-10-04 19:17:18.690555904,,2016-10-03 20:09:10.904000,2016-10-04 16:48:31.150000128,2016-10-04 19:27:30.491000064,2016-10-04 23:58:09.532999936,2016-10-05 10:56:21.876000,datetime64[ns],0
+entity_name,Launch_Events_google16,9,1,Alphabet Inc.,9,,,,,,,,object,0
+relevance,Launch_Events_google16,9.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google16,9.0,,,,0.4933333333333334,0.04000000000000001,0.44,0.44,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_google16,9.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google16,9,1,business,9,,,,,,,,object,0
+type,Launch_Events_google16,9,1,product-release,9,,,,,,,,object,0
+category,Launch_Events_google16,9,1,product-release,9,,,,,,,,object,0
+news_type,Launch_Events_google16,9,2,FULL-ARTICLE,6,,,,,,,,object,0
+css,Launch_Events_google16,9.0,,,,0.008888888888888889,0.017638342073763937,0.0,0.0,0.0,0.0,0.04,float64,0
+headline,Launch_Events_google16,9,9,Remedies in EU Shopping Case May Require Google to Display Rival Shopping Services in Same Position in Search Results - Document,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google17,8,1,4A6F00,8,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google17,8.0,,,,43012.0,0.0,43012.0,43012.0,43012.0,43012.0,43012.0,int64,0
+timestamp_utc,Launch_Events_google17,8,,,,2017-10-04 17:11:24.994874880,,2017-10-04 16:26:51.851000,2017-10-04 17:01:22.743500032,2017-10-04 17:13:27.365499904,2017-10-04 17:27:46.208250112,2017-10-04 17:34:47.006000,datetime64[ns],0
+entity_name,Launch_Events_google17,8,1,Alphabet Inc.,8,,,,,,,,object,0
+relevance,Launch_Events_google17,8.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google17,8.0,,,,0.52,0.0,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_google17,8.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google17,8,1,business,8,,,,,,,,object,0
+type,Launch_Events_google17,8,1,product-release,8,,,,,,,,object,0
+category,Launch_Events_google17,8,1,product-release,8,,,,,,,,object,0
+news_type,Launch_Events_google17,8,2,FULL-ARTICLE,6,,,,,,,,object,0
+css,Launch_Events_google17,8.0,,,,0.005,0.014142135623730952,0.0,0.0,0.0,0.0,0.04,float64,0
+headline,Launch_Events_google17,8,8,MW Google introduces Google Home Mini,1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google18,2,1,4A6F00,2,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google18,2.0,,,,43382.0,0.0,43382.0,43382.0,43382.0,43382.0,43382.0,int64,0
+timestamp_utc,Launch_Events_google18,2,,,,2018-10-09 17:57:53.699000064,,2018-10-09 17:55:42.558000,2018-10-09 17:56:48.128500224,2018-10-09 17:57:53.699000064,2018-10-09 17:58:59.269499904,2018-10-09 18:00:04.840000,datetime64[ns],0
+entity_name,Launch_Events_google18,2,1,Alphabet Inc.,2,,,,,,,,object,0
+relevance,Launch_Events_google18,2.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google18,2.0,,,,0.52,0.0,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_google18,2.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google18,2,1,business,2,,,,,,,,object,0
+type,Launch_Events_google18,2,1,product-release,2,,,,,,,,object,0
+category,Launch_Events_google18,2,1,product-release,2,,,,,,,,object,0
+news_type,Launch_Events_google18,2,1,FULL-ARTICLE,2,,,,,,,,object,0
+css,Launch_Events_google18,2.0,,,,0.04,0.0,0.04,0.04,0.04,0.04,0.04,float64,0
+headline,Launch_Events_google18,2,2,"Google Unveils New Hardware, Including a Tablet-Laptop Hybrid and a Tabletop Smart Display",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google19,1,1,4A6F00,1,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google19,1.0,,,,43753.0,,43753.0,43753.0,43753.0,43753.0,43753.0,int64,0
+timestamp_utc,Launch_Events_google19,1,,,,2019-10-15 16:33:24.427000064,,2019-10-15 16:33:24.427000,2019-10-15 16:33:24.427000064,2019-10-15 16:33:24.427000064,2019-10-15 16:33:24.427000064,2019-10-15 16:33:24.427000,datetime64[ns],0
+entity_name,Launch_Events_google19,1,1,Alphabet Inc.,1,,,,,,,,object,0
+relevance,Launch_Events_google19,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google19,1.0,,,,0.52,,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_google19,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google19,1,1,business,1,,,,,,,,object,0
+type,Launch_Events_google19,1,1,product-release,1,,,,,,,,object,0
+category,Launch_Events_google19,1,1,product-release,1,,,,,,,,object,0
+news_type,Launch_Events_google19,1,1,FULL-ARTICLE,1,,,,,,,,object,0
+css,Launch_Events_google19,1.0,,,,0.0,,0.0,0.0,0.0,0.0,0.0,int64,0
+headline,Launch_Events_google19,1,1,"MW Google unveils new Pixel 4, Pixelbook, and home devices",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google20,5,1,4A6F00,5,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google20,5.0,,,,44104.2,0.4472135954999579,44104.0,44104.0,44104.0,44104.0,44105.0,int64,0
+timestamp_utc,Launch_Events_google20,5,,,,2020-09-30 22:18:31.086400,,2020-09-30 18:57:35.205000,2020-09-30 19:13:39.544000,2020-09-30 20:45:31.390000128,2020-09-30 22:03:42.183000064,2020-10-01 06:32:07.110000,datetime64[ns],0
+entity_name,Launch_Events_google20,5,1,Alphabet Inc.,5,,,,,,,,object,0
+relevance,Launch_Events_google20,5.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google20,5.0,,,,0.52,0.0,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_google20,5.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google20,5,1,business,5,,,,,,,,object,0
+type,Launch_Events_google20,5,1,product-release,5,,,,,,,,object,0
+category,Launch_Events_google20,5,1,product-release,5,,,,,,,,object,0
+news_type,Launch_Events_google20,5,1,FULL-ARTICLE,5,,,,,,,,object,0
+css,Launch_Events_google20,5.0,,,,0.048,0.06723094525588645,0.0,0.0,0.0,0.1,0.14,float64,0
+headline,Launch_Events_google20,5,5,"MW Google introduces new Pixel 5 smartphone, Chromecast, Nest speaker",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google21,3,1,4A6F00,3,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google21,3.0,,,,44488.0,0.0,44488.0,44488.0,44488.0,44488.0,44488.0,int64,0
+timestamp_utc,Launch_Events_google21,3,,,,2021-10-19 17:35:36.807666688,,2021-10-19 17:35:00.288000,2021-10-19 17:35:25.831000064,2021-10-19 17:35:51.374000128,2021-10-19 17:35:55.067500032,2021-10-19 17:35:58.761000,datetime64[ns],0
+entity_name,Launch_Events_google21,3,1,Alphabet Inc.,3,,,,,,,,object,0
+relevance,Launch_Events_google21,3.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google21,3.0,,,,0.49,0.0,0.49,0.49,0.49,0.49,0.49,float64,0
+event_relevance,Launch_Events_google21,3.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google21,3,1,business,3,,,,,,,,object,0
+type,Launch_Events_google21,3,1,partnership,3,,,,,,,,object,0
+category,Launch_Events_google21,3,1,partnership,3,,,,,,,,object,0
+news_type,Launch_Events_google21,3,2,PRESS-RELEASE,2,,,,,,,,object,0
+css,Launch_Events_google21,3.0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,int64,0
+headline,Launch_Events_google21,3,3,"Snap Inc. and Google Partner to Bring ""Quick Tap to Snap"" to Pixel 6",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google22,2,1,4A6F00,2,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google22,2.0,,,,44840.0,0.0,44840.0,44840.0,44840.0,44840.0,44840.0,int64,0
+timestamp_utc,Launch_Events_google22,2,,,,2022-10-06 14:52:31.808000,,2022-10-06 14:45:00.028000,2022-10-06 14:48:45.918000128,2022-10-06 14:52:31.808000,2022-10-06 14:56:17.697999872,2022-10-06 15:00:03.588000,datetime64[ns],0
+entity_name,Launch_Events_google22,2,1,Alphabet Inc.,2,,,,,,,,object,0
+relevance,Launch_Events_google22,2.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google22,2.0,,,,0.44,0.0,0.44,0.44,0.44,0.44,0.44,float64,0
+event_relevance,Launch_Events_google22,2.0,,,,100.0,0.0,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google22,2,1,business,2,,,,,,,,object,0
+type,Launch_Events_google22,2,1,product-enhancement,2,,,,,,,,object,0
+category,Launch_Events_google22,2,1,product-enhancement,2,,,,,,,,object,0
+news_type,Launch_Events_google22,2,1,FULL-ARTICLE,2,,,,,,,,object,0
+css,Launch_Events_google22,2.0,,,,0.04,0.0,0.04,0.04,0.04,0.04,0.04,float64,0
+headline,Launch_Events_google22,2,2,"Google Expands Its Hardware With New Pixel Watch, Pixel 7 and 7 Pro Phones -- WSJ",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google23,1,1,4A6F00,1,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google23,1.0,,,,45218.0,,45218.0,45218.0,45218.0,45218.0,45218.0,int64,0
+timestamp_utc,Launch_Events_google23,1,,,,2023-10-19 07:51:01.580000,,2023-10-19 07:51:01.580000,2023-10-19 07:51:01.580000,2023-10-19 07:51:01.580000,2023-10-19 07:51:01.580000,2023-10-19 07:51:01.580000,datetime64[ns],0
+entity_name,Launch_Events_google23,1,1,Alphabet Inc.,1,,,,,,,,object,0
+relevance,Launch_Events_google23,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google23,1.0,,,,0.49,,0.49,0.49,0.49,0.49,0.49,float64,0
+event_relevance,Launch_Events_google23,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google23,1,1,business,1,,,,,,,,object,0
+type,Launch_Events_google23,1,1,partnership,1,,,,,,,,object,0
+category,Launch_Events_google23,1,1,partnership,1,,,,,,,,object,0
+news_type,Launch_Events_google23,1,1,NEWS-FLASH,1,,,,,,,,object,0
+css,Launch_Events_google23,1.0,,,,0.0,,0.0,0.0,0.0,0.0,0.0,int64,0
+headline,Launch_Events_google23,1,1,"Google to Partner With International, Domestic Manufacturers to Produce Pixel Smartphones Locally >GOOG",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google24,1,1,4A6F00,1,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google24,1.0,,,,45517.0,,45517.0,45517.0,45517.0,45517.0,45517.0,int64,0
+timestamp_utc,Launch_Events_google24,1,,,,2024-08-13 17:50:04.328000,,2024-08-13 17:50:04.328000,2024-08-13 17:50:04.328000,2024-08-13 17:50:04.328000,2024-08-13 17:50:04.328000,2024-08-13 17:50:04.328000,datetime64[ns],0
+entity_name,Launch_Events_google24,1,1,Alphabet Inc.,1,,,,,,,,object,0
+relevance,Launch_Events_google24,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google24,1.0,,,,0.52,,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_google24,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google24,1,1,business,1,,,,,,,,object,0
+type,Launch_Events_google24,1,1,product-release,1,,,,,,,,object,0
+category,Launch_Events_google24,1,1,product-release,1,,,,,,,,object,0
+news_type,Launch_Events_google24,1,1,FULL-ARTICLE,1,,,,,,,,object,0
+css,Launch_Events_google24,1.0,,,,0.1,,0.1,0.1,0.1,0.1,0.1,float64,0
+headline,Launch_Events_google24,1,1,"Google Unveils Gemini AI Assistant, Pixel 9 Phones. Takes Aim At Apple IPhone 16 Launch. -- IBD",1,,,,,,,,object,0
+rp_entity_id,Launch_Events_google25,1,1,4A6F00,1,,,,,,,,object,0
+rpa_date_utc,Launch_Events_google25,1.0,,,,45818.0,,45818.0,45818.0,45818.0,45818.0,45818.0,int64,0
+timestamp_utc,Launch_Events_google25,1,,,,2025-06-10 21:56:29.356999936,,2025-06-10 21:56:29.357000,2025-06-10 21:56:29.356999936,2025-06-10 21:56:29.356999936,2025-06-10 21:56:29.356999936,2025-06-10 21:56:29.357000,datetime64[ns],0
+entity_name,Launch_Events_google25,1,1,Alphabet Inc.,1,,,,,,,,object,0
+relevance,Launch_Events_google25,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+event_sentiment_score,Launch_Events_google25,1.0,,,,0.52,,0.52,0.52,0.52,0.52,0.52,float64,0
+event_relevance,Launch_Events_google25,1.0,,,,100.0,,100.0,100.0,100.0,100.0,100.0,int64,0
+topic,Launch_Events_google25,1,1,business,1,,,,,,,,object,0
+type,Launch_Events_google25,1,1,product-release,1,,,,,,,,object,0
+category,Launch_Events_google25,1,1,product-release,1,,,,,,,,object,0
+news_type,Launch_Events_google25,1,1,NEWS-FLASH,1,,,,,,,,object,0
+css,Launch_Events_google25,1.0,,,,0.0,,0.0,0.0,0.0,0.0,0.0,int64,0
+headline,Launch_Events_google25,1,1,"Google Launches Android 16, Rolling Out First to Supported Pixel Devices",1,,,,,,,,object,0
